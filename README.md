@@ -15,7 +15,6 @@ This project delves into the world of cinema, utilizing the IMDb dataset to unco
 **Tools and Techniques:**
 
 * **SQL:** Used to query and manipulate the IMDb dataset.
-* **Data Visualization:** Employed to create interactive dashboards and visualizations using tools like Tableau or Python libraries (Matplotlib, Seaborn).
 
 **Expected Outcomes:**
 
